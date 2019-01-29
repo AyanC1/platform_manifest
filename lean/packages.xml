@@ -22,4 +22,5 @@
     <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="lean" />
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="lean" />	
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="lean" />
+    <project path="packages/apps/WeatherClient" name="platform_packages_apps_WeatherClient" remote="lean" />
 </manifest>
