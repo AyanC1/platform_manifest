@@ -7,5 +7,5 @@
     <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="lean" />
     <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="lean" />
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="lean" />
-    <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="los" />
+    <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="lineage" />
 </manifest>
