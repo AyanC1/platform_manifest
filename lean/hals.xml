@@ -10,15 +10,15 @@
   <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="lean" revision="lean-9.x" />
   <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="lean" revision="lean-9.x" />
   <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="lean" revision="lean-9.x" />
- <!-- <project path="hardware/qcom/audio-caf/msm8916" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8916" />
+  <!-- <project path="hardware/qcom/audio-caf/msm8916" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8974" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8974" />
   <project path="hardware/qcom/audio-caf/msm8996" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8996" />-->
   <project path="hardware/qcom/audio-caf/msm8998" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8998" />
- <!--  <project path="hardware/qcom/display-caf/msm8916" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lean" revision="lean-9.x-caf-8916" />
+  <!--  <project path="hardware/qcom/display-caf/msm8916" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lean" revision="lean-9.x-caf-8916" />
   <project path="hardware/qcom/display-caf/msm8974" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lean" revision="lean-9.x-caf-8974" />
   <project path="hardware/qcom/display-caf/msm8996" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lean" revision="lean-9.x-caf-8996" /> -->
   <project path="hardware/qcom/display-caf/msm8998" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="lean" revision="lean-9.x-caf-8998" />
- <!-- <project path="hardware/qcom/media-caf/msm8916" name="android_hardware_qcom_media" groups="qcom" remote="lean" revision="lean-9.x-caf-8916" />
+  <!-- <project path="hardware/qcom/media-caf/msm8916" name="android_hardware_qcom_media" groups="qcom" remote="lean" revision="lean-9.x-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8974" name="android_hardware_qcom_media" groups="qcom" remote="lean" revision="lean-9.x-caf-8974" />
   <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" groups="qcom" remote="lean" revision="lean-9.x-caf-8996" /> -->
   <project path="hardware/qcom/media-caf/msm8998" name="platform_hardware_qcom_media" groups="qcom" remote="lean" revision="lean-9.x-caf-8998" />
